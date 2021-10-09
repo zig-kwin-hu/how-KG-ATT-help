@@ -7,6 +7,9 @@ We provide preprocessed NYT-FB60K in `data/`, it has `train.txt` and `test.txt`.
 
 Please download the `nyt.zip` from [google drive](https://drive.google.com/file/d/1kuqaiebhNnatccUB4aLVSrX1UFuNMabZ/view?usp=sharing) and put it under `data/`, then unzip it.
 
+We also provide preprocessed GIDS-FB8K in `data/`, it has `train.txt` , `dev.txt` and `test.txt`.
+
+Please download the `gids.zip` from [google drive](https://drive.google.com/file/d/15uUieKoK4wk-oOyrcNyAx9ZdtRM88sOE/view?usp=sharing) and put it under `data/`, then unzip it.
 
 ### 2 Train
 
